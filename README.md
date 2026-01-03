@@ -1,92 +1,92 @@
-# Hi, I'm Jiten Ganwani 👋
-**4th year B.Tech (CSE — AIML)** at Sardar Patel Institute of Technology (SPIT)  
-AI / Machine Learning | Generative AI | Applied Research
+<h1 align="center">Hi, I’m Jiten 👋</h1>
+<p align="center">
+  I build AI systems that are meant to survive outside notebooks.
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Jiten-Ganwani"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/Jitz10"><img src="https://img.shields.io/badge/GitHub-black?logo=github" alt="GitHub"/></a>
-  <a href="mailto:jiten.ganwani22@spit.ac.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email"/></a>
-  <a href=":contentReference[oaicite:1]{index=1}"><img src="https://img.shields.io/badge/Resume-PDF-orange" alt="Resume"/></a>
+  <a href="https://github.com/Jitz10">GitHub</a> •
+  <a href="https://linkedin.com/in/Jiten-Ganwani">LinkedIn</a> •
+  <a href="mailto:jiten.ganwani22@spit.ac.in">Email</a> •
+  <a href="https://drive.google.com/">Resume</a>
 </p>
 
 ---
 
-## About me
-I build practical ML systems and GenAI tooling — from production-ready pipelines to research prototypes. I enjoy combining LLMs, retrieval (RAG), and classical ML to solve real problems like interview automation, equity research, and safety/incident reporting.
+## 🌱 About
+
+I’m a final-year AIML student at SPIT, Mumbai.  
+I enjoy working at the intersection of **machine learning, systems, and product thinking** —  
+especially where GenAI needs structure to be useful.
+
+Most of my projects focus on turning ideas into **cohesive pipelines**, not just models.
 
 ---
 
-## Tech stack (high level)
-- **Languages:** Python, Java, C++, SQL, JavaScript  
-- **ML / GenAI:** PyTorch, TensorFlow, Scikit-learn, LangChain, LlamaIndex, AutoGen, Mistral/Gemini integrations  
-- **Web / Backend:** Flask, FastAPI, Node.js, Docker  
-- **Data / Cloud:** MongoDB, PostgreSQL, Azure ML, Databricks, AWS (S3)  
-- **Tools:** GitHub, GitHub Actions, Power BI, Tableau
+## 🚀 Selected Projects
+
+### 🧩 Core Work
+
+| Project | What it is | Why it matters | Links |
+|-------|-----------|---------------|------|
+| **AlphaSage** | GenAI-powered equity research system | Automates analysis over reports, tables, and scanned docs using a unified GenAI pipeline | [Repo](https://github.com/Jsh-Agarwal/AlphaSage) |
+| **RakshaSetu** | Incident & crime reporting platform | Uses AI for classification and triage while keeping reliability and usability first | [Repo](https://github.com/Jsh-Agarwal/RakshaSetu_WestWarriors) |
+| **DualScope-LSTM** | Cloud resource forecasting model | Explores temporal + long-term trends in real cloud workloads | [Repo](https://github.com/Jitz10/DualScope-LSTM-Adaptive-Dual-Branch-Modeling-for-Cloud-Resource-Forecasting) |
+| **Java Interview Chatbot** | Interview preparation assistant | Turns static interview prep into an interactive, adaptive experience | [Repo](https://github.com/vvinayakkk/Interview_chatbot) |
 
 ---
 
-## Featured projects & links
+### 🏆 Validation & Highlights
 
-### 🔹 AlphaSage — AI-Powered Equity Research  
-https://github.com/Jsh-Agarwal/AlphaSage  
-- Equity research platform for Indian markets (Flask, MongoDB, AutoGen, Mistral OCR).  
-- Unified parser for textual/tabular/visual data; reduced manual work and automated investor filing processing.  
-- **Achievements:** 2nd Runner-up — GenAI Hackathon (Vijaybhoomi University); Top-4 — JPMC Innovation Week.
-
-### 🔹 RakshaSetu — Crime Reporting & Management System  
-https://github.com/Jsh-Agarwal/RakshaSetu_WestWarriors  
-- Secure Flask backend, multimedia processing & GIS (Folium), LLM-powered classification for incident triage.  
-- **Achievement:** 2nd Runner-up — Odoo Hackathon (SVNIT).
-
-### 🔹 Java Interview Chatbot  
-https://github.com/vvinayakkk/Interview_chatbot  
-- An interview chatbot focused on Java — useful for practice and question generation pipelines.
-
-### 🔹 DualScope-LSTM — Cloud Resource Forecasting (repo)  
-https://github.com/Jitz10/DualScope-LSTM-Adaptive-Dual-Branch-Modeling-for-Cloud-Resource-Forecasting  
-- Cloud forecasting model using dual-branch dilated conv + LSTM + attention for Borg traces.  
-- Research & evaluation on CPU utilization forecasting (paper / code).
+| Project | Recognition |
+|-------|-------------|
+| **AlphaSage** | 🥈 2nd Runner-up — GenAI Hackathon (Vijaybhoomi University) |
+| **AlphaSage** | 🏅 Top 4 — JPMC Tech Week |
+| **RakshaSetu** | 🥈 2nd Runner-up — Odoo Hackathon (SVNIT) |
 
 ---
 
-## Experience (select)
-- **AI Engineering Intern — Toofan Connect** (Jun 2025 – Present)  
-  Built real-time voicebot with FastAPI & WebSockets; implemented multi-agent conversational system (AutoGen + OpenAI).
-- **GenAI Research Intern — SPIT** (Sep 2024 – Feb 2025)  
-  Fine-tuned LLMs (Llama 3.2, Gemma, Mistral) for Java-specific question generation and adaptive interviewer pipelines.
-- **Software Dev Intern — Smowcode** (Jun 2024 – Aug 2024)  
-  Built frontend components (Angular) and implemented secure JWT-based auth with AWS deployment pipelines.
+## 🧠 What I like building
+
+| Area | Focus |
+|----|------|
+| **Generative AI** | RAG systems, LLM fine-tuning, multi-agent workflows |
+| **Machine Learning** | Forecasting, classification, decision-support models |
+| **Systems** | Backend-heavy AI apps where infra and data matter |
+| **Applied Research** | Models that answer *why*, not just *what* |
 
 ---
 
-## Research & Publications
-- **DualScope-LSTM:** Adaptive Dual-Branch Modeling for Cloud Resource Forecasting — research + code.  
-- **Brain Tumor Segmentation:** DeepLabv3+ with XAI (IIT Patna collaboration) — segmentation + interpretability.
+## 🛠 Tools & Tech (I actually use)
+
+| Category | Tools |
+|-------|------|
+| **Languages** | Python, Java, C++, SQL |
+| **ML / DL** | PyTorch, TensorFlow, Scikit-learn |
+| **GenAI** | LLM fine-tuning, LoRA, RAG, Prompt Engineering |
+| **Backend** | Flask, FastAPI |
+| **Cloud & Data** | Azure ML, Databricks, AWS S3, PostgreSQL, MongoDB |
+| **DevOps** | Docker, GitHub Actions |
 
 ---
 
-## Education
-**Sardar Patel Institute of Technology (SPIT)** — B.Tech CSE (AIML), Class of 2026  
-CGPA: 8.38
+## 🌍 Outside the code
+
+I enjoy:
+- Breaking down complex systems until they feel obvious  
+- Reading postmortems more than hype blogs  
+- Building things slightly beyond my comfort zone  
 
 ---
 
-## Get in touch
-- **Email:** jiten.ganwani22@spit.ac.in  
-- **Phone:** +91 9860566455  
-- **LinkedIn:** https://linkedin.com/in/Jiten-Ganwani  
-- **GitHub:** https://github.com/Jitz10  
-- **Resume (pdf):** :contentReference[oaicite:2]{index=2}
+## 🤝 Let’s connect
 
----
+If you’re working on:
+- Applied GenAI systems  
+- ML products with real users  
+- Research ideas that want to escape PDFs  
 
-## How you can help / collaborate
-- Star ⭐ any repo you like, open issues, or raise PRs for improvements.  
-- If you’d like to collaborate on GenAI research or production ML systems — message me on LinkedIn or email!
+I’d love to talk.
 
----
-
-*If you want, I can:*
-- produce a condensed one-line bio for the top of the README, or  
-- add GitHub Stats cards / dynamic contribution graphs, or  
-- generate a short pinned-project section for the GitHub profile (top 3 repos).
+📧 jiten.ganwani22@spit.ac.in  
+🔗 https://linkedin.com/in/Jiten-Ganwani  
+🐙 https://github.com/Jitz10
